@@ -1,0 +1,6 @@
+hello world
+hello there
+how are you
+i am learning transformers
+transformers are interesting
+i love machine learning
